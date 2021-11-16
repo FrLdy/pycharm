@@ -2,4 +2,14 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta colon" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
 </keymap>
